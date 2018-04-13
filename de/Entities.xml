@@ -15,7 +15,7 @@
         </CTO>
         <FinanceVP>
             <name>Finanz-VP</name>
-            <description>Vice President of Finance - Ermöglicht das "Erforschen" von Steuervergünstigungen und hilft den Laden am laufen zu halten.</description>
+            <description>Vice President of Finance - Ermöglicht das "Erforschen" von Steuervergünstigungen und hilft den Laden am Laufen zu halten.</description>
         </FinanceVP>
         <FlightAttendant>
             <name>Steward/Stewardess</name>
@@ -311,11 +311,11 @@
         </DecorativePlant>
         <DecorativeStatueA>
             <name>Dekorative Statue A</name>
-            <description>Ein schöne, moderne und dekorative Statue. </description>
+            <description>Eine schöne, moderne und dekorative Statue. </description>
         </DecorativeStatueA>
         <DecorativeStatueB>
             <name>Dekorative Statue B</name>
-            <description>Ein schöne, moderne und dekorative Statue. </description>
+            <description>Eine schöne, moderne und dekorative Statue. </description>
         </DecorativeStatueB>
         <DecorativeTree>
             <name>Dekorativer Baum</name>
